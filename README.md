@@ -16,5 +16,7 @@ Este sistema esta desarrolado con las siguientes texnologias:
 7. FullcalendarJs
 8. ChartJs
 9. Mysql
-##Capturas
+10. 
+## Capturas
+
 ![](https://raw.githubusercontent.com/KevinAlderete/Sistema-abogados/main/Captura%20de%20pantalla.png)
